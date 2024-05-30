@@ -1,0 +1,48 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "a12e5c72-5bb9-4acf-a616-5037ead9c14a": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "template--14837035466830__a12e5c72-5bb9-4acf-a616-5037ead9c14a-item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/275450905_993352407947069_4026114181322074432_n.jpg",
+            "icon": "picto-coupon",
+            "icon_width": 36,
+            "title": "Bossman Brands discount code",
+            "content": "<br><p>Are you looking for an Bossman Brands coupon code? If so, you’ve come to the right place. We like resourceful people and think that qualifies for a little something. Get an Bossman Brands promo code for 10% off to use on your first order with us below. <\/p><br><h2 style=\"text-align:center;font-size:32px;\">YOUFOUND10<\/h2><p style=\"text-align:center;\"><em>use this code to get 10% off<\/em><\/p><br>",
+            "btn_title": "Claim Your 10% Off Now",
+            "btn_url": "https:\/\/bossmanbrands.com\/discount\/YOUFOUND10"
+          }
+        }
+      },
+      "block_order": [
+        "template--14837035466830__a12e5c72-5bb9-4acf-a616-5037ead9c14a-item-1"
+      ],
+      "custom_css": [
+        ".h2 {opacity: 1; display: flex; font-size: 36px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "fade",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a12e5c72-5bb9-4acf-a616-5037ead9c14a"
+  ]
+}

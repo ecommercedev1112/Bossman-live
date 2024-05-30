@@ -1,0 +1,50 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "settings": {
+        "show_categories": true,
+        "show_excerpt": true,
+        "show_featured_products": true
+      }
+    },
+    "16947039930574eac9": {
+      "type": "apps",
+      "blocks": {
+        "5557a808-ffe2-427a-807c-2b6bde2163b0": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "RTNism"
+          }
+        },
+        "b07f8e8a-ed60-485e-bbab-34d887713be5": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "VnHz3K"
+          }
+        }
+      },
+      "block_order": [
+        "5557a808-ffe2-427a-807c-2b6bde2163b0",
+        "b07f8e8a-ed60-485e-bbab-34d887713be5"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16947039930574eac9"
+  ]
+}
